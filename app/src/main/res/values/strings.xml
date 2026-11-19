@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Grand Space Opera</string>
+    <string name="prism_verified_badge">PRISM KERNEL: VERIFIED</string>
+    <string name="mira_wcag_badge">MIRA WCAG 48dp: PASS</string>
+    <string name="tab_flight">Flight</string>
+    <string name="tab_comms">Comms</string>
+    <string name="tab_anomaly">Anomaly</string>
+    <string name="tab_crew">Crew</string>
+    <string name="tab_galaxy">Galaxy</string>
+    <string name="tab_kernel">Prism</string>
+    <string name="btn_thrust">Thrust</string>
+    <string name="btn_turn_left">Turn ⟲</string>
+    <string name="btn_turn_right">Turn ⟳</string>
+    <string name="btn_brake">Brake</string>
+    <string name="btn_fire_laser">Fire Laser</string>
+    <string name="btn_fire_cannon">Cannon</string>
+    <string name="btn_siphon_board">Siphon &amp; Board</string>
+    <string name="btn_drop_shields">Drop Shields</string>
+    <string name="btn_new_seed">Fork Seed</string>
+    <string name="cd_hero_banner">Deep space solar wind and hyperspace gate banner</string>
+    <string name="cd_space_canvas">Interactive 2D solar-wind spaceflight viewport</string>
+</resources>

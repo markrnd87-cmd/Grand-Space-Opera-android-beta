@@ -1,0 +1,6 @@
+{
+  "name": "Grand Space Opera",
+  "description": "Deterministic Prism and Verdant Engine spaceflight simulation featuring analytical solar-wind physics, alien first-contact cipher decoding, red-zone anomaly overclocking, crew personal arcs, tropical semiring starmap routing, and non-lethal piracy boarding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
